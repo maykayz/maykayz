@@ -6,7 +6,7 @@ I'm **May K**, a passionate frontend developer from Myanmar 🇲🇲, currently 
 
 ---
 
-- 🔭 I’m currently working on: **Condo Management Software for my Final Year Project**
+
 - 🌱 I’m currently learning: **[e.g., Next.js, Node.js, AI-powered apps]**
 - 👯 I’m looking to collaborate on: **Open source, side projects, and AI tools**
 - 💬 Ask me about: **Frontend, UX/UI, or moving abroad as a developer**
