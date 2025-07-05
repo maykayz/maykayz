@@ -34,7 +34,3 @@ I’m May K, a frontend developer who loves cozy games, warm design, and buildin
 
 > ✨ Love crafting clean, friendly user interfaces.
 
----
-
-> 🌿 *"Every new branch starts with a single commit."*
-
