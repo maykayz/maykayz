@@ -1,30 +1,40 @@
-## Hi there 👋
+## 🧺🍂 Willkommen auf meiner kleinen Coding-Farm! 🍂🌾
 
-<img src="[https://your-image-url.com/your-image.png](https://www.notion.so/image/https%3A%2F%2F64.media.tumblr.com%2F6305393bbc6995ad93fee6f5b0eaa54e%2F98686be5e73b49ac-5f%2Fs400x600%2Feee6faacbc04ec8198a08a0db24729b37e057e1d.gif?table=block&id=5375f670-fb12-48df-8589-72be55504b8b&spaceId=cddf9df9-9cf5-4d73-b3eb-845a25037672&userId=77329f3a-878e-4cb2-a42e-0fe5c36b4df9&cache=v2)" alt="Banner" width="100%" />
+### 🌻 Hey there!  
 
-I'm **May K**, a passionate frontend developer from Myanmar 🇲🇲, currently based in Thailand 🇹🇭.
-
----
+I’m May K, a frontend developer who loves cozy games, warm design, and building things that bring people together.
 
 
-- 🌱 I’m currently learning: **[e.g., Next.js, Node.js, AI-powered apps]**
-- 👯 I’m looking to collaborate on: **Open source, side projects, and AI tools**
-- 💬 Ask me about: **Frontend, UX/UI, or moving abroad as a developer**
-- 📫 How to reach me: **[maykayz.dev@gmail.com](mailto:maykayz.dev@gmail.com)**
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: *I love exploring hidden coffee shops and drawing UX wireframes by hand!*
 
----
+![Cozy coding vibes](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndwb3owcXdvYXV1d2kzbHdsdWg3eXNnMHA5bWJkbmducWU0aTdseiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VFHa3Kg39gFLVbinN1/giphy.gif)
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maykayz&show_icons=true&theme=transparent" alt="May K's GitHub stats" />
-</p>
+
+
+
+>"Code is like planting seeds – with care and patience, it grows into something beautiful."
 
 ---
 
-### 🌐 Find me around the web
-- [LinkedIn](https://www.linkedin.com/in/eaintthazinmyint)
+### 🧺 What I’m currently growing  
+
+> 🌱 A project to help people make their digital world feel more delightful.  
+
+> 🍯 Learning new frameworks and playing with UX/UI design.  
+
+> 🐦 On the side, I’m building little tools to make everyday life easier.
 
 ---
-✨ _Thank you for stopping by!_ ✨
+---
+
+### 🌱 A few cozy facts about me  
+
+> ☕ Powered by coffee and lo-fi playlists.  
+
+> 🌼 Inspired by games like Stardew Valley & Animal Crossing.  
+
+> ✨ Love crafting clean, friendly user interfaces.
+
+---
+
+> 🌿 *"Every new branch starts with a single commit."*
+
