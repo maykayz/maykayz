@@ -1,5 +1,6 @@
 ## 🧺🍂 Willkommen auf meiner kleinen Coding-Farm! 🍂🌾
 
+
 ### 🌻 Hey there!  
 
 I’m May K, a frontend developer who loves cozy games, warm design, and building things that bring people together.
@@ -23,7 +24,6 @@ I’m May K, a frontend developer who loves cozy games, warm design, and buildin
 
 > 🐦 On the side, I’m building little tools to make everyday life easier.
 
----
 ---
 
 ### 🌱 A few cozy facts about me  
