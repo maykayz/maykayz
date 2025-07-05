@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://your-image-url.com/your-image.png" alt="Banner" width="100%" />
+<img src="[https://your-image-url.com/your-image.png](https://www.notion.so/image/https%3A%2F%2F64.media.tumblr.com%2F6305393bbc6995ad93fee6f5b0eaa54e%2F98686be5e73b49ac-5f%2Fs400x600%2Feee6faacbc04ec8198a08a0db24729b37e057e1d.gif?table=block&id=5375f670-fb12-48df-8589-72be55504b8b&spaceId=cddf9df9-9cf5-4d73-b3eb-845a25037672&userId=77329f3a-878e-4cb2-a42e-0fe5c36b4df9&cache=v2)" alt="Banner" width="100%" />
 
 I'm **May K**, a passionate frontend developer from Myanmar 🇲🇲, currently based in Thailand 🇹🇭.
 
