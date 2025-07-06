@@ -18,7 +18,7 @@ I’m May K, a frontend developer who loves cozy games, warm design, and buildin
 
 ### 🧺 What I’m currently growing  
 
-> 🌱 A **resume builder app** for my final year project.  
+> 🌱 A **resume builder app** for my school project.  
 
 > 🍯 Refreshing my **Node.js** and **Vue.js** skills.
 
