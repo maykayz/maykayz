@@ -18,9 +18,11 @@ I’m May K, a frontend developer who loves cozy games, warm design, and buildin
 
 ### 🧺 What I’m currently growing  
 
-> 🌱 A **resume builder app** for my school project.  
+> 🌾 Full-time building with **Next.js** and **Typescript** to craft modern, scalable apps.
 
-> 🍯 Refreshing my **Node.js** and **Vue.js** skills.
+> 🌱 On the side, I'm crafting **resume builder app** with **Node.js** and **Next.js**
+
+> 🍯 Refreshing my **Vue.js** skills.
 
 > 📚 Also exploring a bit of **Kotlin** lately.
 
@@ -33,4 +35,6 @@ I’m May K, a frontend developer who loves cozy games, warm design, and buildin
 > 🌼 Inspired by games like Stardew Valley & Animal Crossing.  
 
 > ✨ Love crafting clean, friendly user interfaces.
+
+> 📊 Enjoy working with Google Analytics & Google Tag Manager to better understand users.
 
