@@ -22,8 +22,6 @@ I’m May K, a frontend developer who loves cozy games, warm design, and buildin
 
 > 🌱 On the side, I'm crafting **resume builder app** with **Node.js** and **Next.js**
 
-> 🍯 Refreshing my **Vue.js** skills.
-
 > 📚 Also exploring a bit of **Kotlin** lately.
 
 ---
