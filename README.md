@@ -1,9 +1,9 @@
-## 🧺🍂 Willkommen auf meiner kleinen Coding-Farm! 🍂🌾
+## 🧺🍂 Welcome to my little farm! 🍂🌾
 
 
 ### 🌻 Hey there!  
 
-I’m May K, a frontend developer who loves cozy games, warm design, and building things that bring people together.
+I’m Eaint, a frontend-focused fullstack developer who loves cozy games, warm design, and building things that bring people together.
 
 
 
@@ -18,21 +18,19 @@ I’m May K, a frontend developer who loves cozy games, warm design, and buildin
 
 ### 🧺 What I’m currently growing  
 
-> 🌾 Full-time building with **Next.js** and **Typescript** to craft modern, scalable apps.
+> 🌾 Full-time building with **Next.js** and **.Net** to support German client.
 
-> 🌱 On the side, I'm crafting **resume builder app** with **Node.js** and **Next.js**
-
-> 📚 Also exploring a bit of **Kotlin** lately.
+> 🌱 On the side, I'm growing my full-stack journey with **Nest.js**.
 
 ---
 
 ### 🌱 A few cozy facts about me  
 
-> ☕ Powered by coffee and lo-fi playlists.  
+> ☕ Powered by Caffeine and Monster
 
 > 🌼 Inspired by games like Stardew Valley & Animal Crossing.  
 
-> ✨ Love crafting clean, friendly user interfaces.
+> ✨ Love crafting clean, friendly user interfaces but on the other hand, love pixel interfaces.
 
-> 📊 Enjoy working with Google Analytics & Google Tag Manager to better understand users.
+> 📊 Love playing badminton, yoga and build Gunpla occassionally.
 
